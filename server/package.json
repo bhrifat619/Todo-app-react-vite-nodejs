@@ -1,9 +1,10 @@
 {
   "name": "todo-server",
   "version": "1.0.0",
-  "description": "Simple todo backend using Node.js and JSON file",
-  "main": "index.js",
+  "description": "Simple todo app backend with Node.js and JSON file",
+  "type": "module",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   }
 }
